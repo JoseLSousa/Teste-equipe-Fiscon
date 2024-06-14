@@ -3,6 +3,7 @@
 namespace FaturamentoDiario
 {
     //Considerando que o ano não é bissexto e utilizando a classe random para gerar os faturamento diário de forma aleatória
+    // Caso queira saber mais acesse meu repositório : https://github.com/JoseLSousa/Teste-equipe-Fiscon
     class Program
     {
         static void Main()
