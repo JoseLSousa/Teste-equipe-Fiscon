@@ -21,7 +21,7 @@ Este projeto calcula o faturamento diário ao longo de um ano, considerando que 
 ```bash
 git clone https://github.com/JoseLSousa/Teste-equipe-Fiscon.git
 ```
-- Execute o comando para executar o programa
+- Execute o comando para rodar o programa
 ```bash
 dotnet-run
 ```
